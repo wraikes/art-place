@@ -49,15 +49,15 @@ function draw() {
   rect(blockwidth, blockheight * 3, blockwidth, blockheight)
   fill(color(f));
   rect(blockwidth, blockheight * 4, blockwidth, blockheight)
-  fill(color(f));
+  fill(color(b));
   rect(blockwidth, blockheight * 5, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(b));
   rect(blockwidth, blockheight * 6, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(b));
   rect(blockwidth, blockheight * 7, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(c));
   rect(blockwidth, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(blockwidth, blockheight * 9, blockwidth, blockheight)
 
 var n = 2;
@@ -80,16 +80,16 @@ var n = 2;
   rect(blockwidth * n, blockheight * 7, blockwidth, blockheight)
   fill(color(a));
   rect(blockwidth * n, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(c));
   rect(blockwidth * n, blockheight * 9, blockwidth, blockheight)
 
 var n = 3;
   //Column 4
-  fill(color(a));
+  fill(color(c));
   rect(blockwidth * n, 0, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(c));
   rect(blockwidth * n, blockheight, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(c));
   rect(blockwidth * n, blockheight * 2, blockwidth, blockheight)
   fill(color(a));
   rect(blockwidth * n, blockheight * 3, blockwidth, blockheight)
@@ -99,11 +99,11 @@ var n = 3;
   rect(blockwidth * n, blockheight * 5, blockwidth, blockheight)
   fill(color(a));
   rect(blockwidth * n, blockheight * 6, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(blockwidth * n, blockheight * 7, blockwidth, blockheight)
   fill(color(a));
   rect(blockwidth * n, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth * n, blockheight * 9, blockwidth, blockheight)
 
 var n = 4;
@@ -166,13 +166,13 @@ var n = 6;
   rect(blockwidth * n, blockheight * 4, blockwidth, blockheight)
   fill(color(a));
   rect(blockwidth * n, blockheight * 5, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(f));
   rect(blockwidth * n, blockheight * 6, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(f));
   rect(blockwidth * n, blockheight * 7, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(f));
   rect(blockwidth * n, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth * n, blockheight * 9, blockwidth, blockheight)
 
 var n = 7;

@@ -11,6 +11,7 @@
 
 We'll be covering the steps of merge conflict resolution live, but here's a [video](https://www.youtube.com/watch?v=TMTDFMwU3sU&list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz&index=11) of a resolution if you're following along outside of a workshop.
 
+
 ## Next Steps
 - Close any open items in your text editor.
 - Type `git checkout gallery` and follow the instructions in the `instructions.md`
