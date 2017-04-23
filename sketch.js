@@ -17,39 +17,39 @@ var g = 'pink';
 
 function draw() {
   //Column 1
-  fill(color(a));
+  fill(color(d));
   rect(0, 0, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(0, blockheight, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(0, blockheight * 2, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(0, blockheight * 3, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(0, blockheight * 4, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(0, blockheight * 5, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(0, blockheight * 6, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(0, blockheight * 7, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(d));
   rect(0, blockheight * 8, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(0, blockheight * 9, blockwidth, blockheight)
 
   //Column 2
-  fill(color(a));
+  fill(color(f));
   rect(blockwidth, 0, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(f));
   rect(blockwidth, blockheight, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 2, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(e));
   rect(blockwidth, blockheight * 3, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(f));
   rect(blockwidth, blockheight * 4, blockwidth, blockheight)
-  fill(color(a));
+  fill(color(f));
   rect(blockwidth, blockheight * 5, blockwidth, blockheight)
   fill(color(a));
   rect(blockwidth, blockheight * 6, blockwidth, blockheight)
